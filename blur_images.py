@@ -89,7 +89,7 @@ class BackgroundBlur:
             st.session_state.processed_image = None
 
         # App title and description
-        st.title("@GenAILearniverse Project 14: Background Blur App")
+        st.title("Welcome to Background Blur App")
         st.markdown("Upload an image to blur its background while keeping the subject in focus.")
         
         # Model path configuration
