@@ -23,11 +23,11 @@ pip install -r requirements.txt
 
 ### Requirements List:
 
-- **Streamlit**: 1.41.1
-- **Torch**: 2.5.1+cpu
-- **Transformers**: 4.47.1
-- **Pillow**: 10.2.0
-- **Numpy**: 1.26.3
+- **Streamlit**:
+- **Torch**
+- **Transformers**
+- **Pillow**
+- **Numpy**
 ## Usage
 
 ### 1. Clone the repository
